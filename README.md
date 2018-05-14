@@ -3,7 +3,7 @@
 [![Build status](https://img.shields.io/travis/Aaronepower/unwrap_to.svg?branch=master)](https://travis-ci.org/Aaronepower/unwrap_to)
 
 
-A simple utility macro that allows you to easily unwrap a ADT(Abstract
+A simple utility macro that allows you to easily unwrap a ADT(Algebraic
 Data Type) enum into a reference of its inner type.
 ```
 #[macro_use] extern crate unwrap_to;
