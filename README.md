@@ -1,6 +1,9 @@
 # unwrap_to
 
 [![Build status](https://img.shields.io/travis/Aaronepower/unwrap_to.svg?branch=master)](https://travis-ci.org/Aaronepower/unwrap_to)
+[![](https://tokei.rs/b1/github/Aaronepower/unwrap_to?category=code)](https://github.com/Aaronepower/tokei)
+[![Documentation](https://docs.rs/tokei/badge.svg)](https://docs.rs/tokei/)
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Aaronepower/donate)
 
 
 A simple utility macro that allows you to easily unwrap a ADT(Algebraic
